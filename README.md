@@ -21,6 +21,7 @@ Generating a QR code is a good idea for a way to share and access the URL (https
  
  
 In case you want to use a personalized Marker:
+  - Create a square image in .png format, that you want to have in the middle of the marker 
   - Generate and download the marker AND the image here: https://ar-js-org.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
       - Use these tips: https://medium.com/chialab-open-source/10-tips-to-enhance-your-ar-js-app-8b44c6faffca
       - do not change the "pattern ratio"
